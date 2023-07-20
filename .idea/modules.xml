@@ -3,12 +3,16 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/OOP.iml" filepath="$PROJECT_DIR$/.idea/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_1/OOP_1.iml" filepath="$PROJECT_DIR$/OOP_1/OOP_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP_2/OOP_2.iml" filepath="$PROJECT_DIR$/OOP_2/OOP_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_START/OOP_START.iml" filepath="$PROJECT_DIR$/OOP_START/OOP_START.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/Task_001/Task_001.iml" filepath="$PROJECT_DIR$/OOP/Task_001/Task_001.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/Task_002/Task_002.iml" filepath="$PROJECT_DIR$/OOP/Task_002/Task_002.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/Task_003/Task_003.iml" filepath="$PROJECT_DIR$/OOP/Task_003/Task_003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_START/task_0001/task_0001.iml" filepath="$PROJECT_DIR$/OOP_START/task_0001/task_0001.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP_2/task_001/task_001.iml" filepath="$PROJECT_DIR$/OOP_2/task_001/task_001.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP_2/task_002/task_002.iml" filepath="$PROJECT_DIR$/OOP_2/task_002/task_002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_1/tass/tass.iml" filepath="$PROJECT_DIR$/OOP_1/tass/tass.iml" />
     </modules>
   </component>
 </project>
