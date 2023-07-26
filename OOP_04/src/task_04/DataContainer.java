@@ -1,7 +1,6 @@
-package task_004;
+package task_04;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 

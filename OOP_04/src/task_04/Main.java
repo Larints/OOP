@@ -1,7 +1,6 @@
-package task_004;
+package task_04;
 
 import java.util.ArrayList;
-import java.util.Comparator;
 
 public class Main {
     public static void main(String[] args) {
