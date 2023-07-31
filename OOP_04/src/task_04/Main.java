@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
-        DataContainer<String> stringdatacontainer = new DataContainer<String>(new ArrayList<>()); // Создаем экземпляр
+        DataContainer<String> stringdatacontainer = new DataContainer<>(new ArrayList<>()); // Создаем экземпляр
         stringdatacontainer.addValue("L"); // Добавляем значение
         stringdatacontainer.addValue("OO");
         stringdatacontainer.addValue("OOO");
